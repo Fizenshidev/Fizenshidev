@@ -74,12 +74,12 @@ passion:
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/fizenshi">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fizenshi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Fizenshi's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fizenshidev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Fizenshi's GitHub Stats" />
   </a>
   
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/fizenshi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizenshi&theme=tokyonight&hide_border=true" width="48%" alt="Fizenshi's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fizenshidev&theme=tokyonight&hide_border=true" width="48%" alt="Fizenshi's GitHub Streak" />
   </a>
 </div>
 
@@ -88,7 +88,7 @@ passion:
 <div align="center">
   <!-- GitHub Activity Graph (using updated service) -->
   <a href="https://github.com/fizenshi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizenshi&theme=tokyo-night&hide_border=true" width="90%" alt="Fizenshi's Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fizenshidev&theme=tokyo-night&hide_border=true" width="90%" alt="Fizenshi's Contribution Graph" />
   </a>
 </div>
 
