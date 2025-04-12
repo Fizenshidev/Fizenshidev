@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:303080&height=200&section=header&text=Fizenshi%20-%20Code%20Ronin&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FAD02E&center=true&vCenter=true&lines=Welcome+to+Fizenshi's+Domain;Code+Samurai+%7C+Mecha+Dev+%7C+Anime+Lover;Crafting+elegant+code+since+20XX"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FAD02E&center=true&vCenter=true&lines=Welcome+to+Fizenshi's+Domain;Code+Samurai+%7C+Mecha+Dev+%7C+Anime+Lover;Crafting+elegant+code+since+2017"/>
   
   <br/>
   <img src="https://media.tenor.com/9zvB5Be1tMIAAAAC/gundam-anime.gif" width="300"/>
